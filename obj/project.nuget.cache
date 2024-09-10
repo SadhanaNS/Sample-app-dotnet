@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlHyXDO6FaEK9jcf7qATQOmGPL+JsCrC97Aek8ofthhw/fX3Mx+BFQocP9Zxw2ZM8XXHLKM6OJ8u+lgQebgIcA==",
+  "success": true,
+  "projectFilePath": "D:\\Phase2_study_2024\\Kuberenets\\sampleapp-complete-CICD\\SampleWebApp\\SampleWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadhana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
